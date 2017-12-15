@@ -1,5 +1,8 @@
 import utils.PersonUnderBuilding
 
+/**
+  * Main class
+  */
 object Builder {
 
   object NormalPersonBuilder {
@@ -8,10 +11,21 @@ object Builder {
 
   def main(args: Array[String]) = {
 
-    val me = NormalPersonBuilder().withName("Guido").withId("652520943").withEmail("gmusci2@uic.edu").build
-    println("Building me:  " + me)
-    val meAsStudent = NormalPersonBuilder().withName("Guido").withId("652520943").withEmail("gmusci2@uic.edu").withStudent.withLevel("Master").build("Ciao")
-    println("Building me:  " + meAsStudent)
+    println("START EXECUTION")
+
+    //Building a normal person
+    val me = NormalPersonBuilder().withName("Guido").withSSN("766556").withEmail("gmusci2@uic.edu").build
+    println("\nBuilding me:  " + me)
+
+    //Building a student
+    val meAsStudent = NormalPersonBuilder().withName("Guido").withId("652520943").withEmail("gmusci2@uic.edu").withStudent.withLevel("Master").withGPA("4").build
+    println("\nBuilding me:  " + meAsStudent)
+
+    //Building a professor
+    val meAsProfessor = NormalPersonBuilder().withName("Guido").withId("652520943").withEmail("gmusci2@uic.edu").withProfessor.withDepartment("CS").withOffice("9999").build
+    println("\nBuilding me:  " + meAsProfessor)
+
+    println("\nEXECUTION END")
   }
 }
 

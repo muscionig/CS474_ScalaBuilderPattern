@@ -24,15 +24,14 @@ class StudentBuilder[Building <: PersonUnderBuilding](val studentName: String, v
     studentBuilder[Building { type level = TRUE}]
   }
 
-  def withGPA(gpa: String) = {
+  def withGPA(gpa: String)(implicit value1: Building#level =:= TRUE) = {
 
-    self.level = Some(gpa)
+    self.gpa = Some(gpa)
     studentBuilder[Building]
   }
 
-  def build( x:String)(implicit ev1: Building#id =:= TRUE, ev2: Building#name =:= TRUE, ev3: Building#email =:= TRUE, ev4: Building#level =:= TRUE): Student = {
+  def build(implicit value1: Building#id =:= TRUE, value2: Building#name =:= TRUE, value3: Building#email =:= TRUE, value4: Building#level =:= TRUE): Student = {
 
-    println(x)
     new Student(name, id, email, level.get, gpa)
   }
 }

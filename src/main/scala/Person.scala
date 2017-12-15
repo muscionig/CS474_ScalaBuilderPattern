@@ -13,6 +13,6 @@ class Person(val name: String, val id: String, val email: String) {
 
   override def toString: String = {
 
-    "Name:" + name + " Id:" + id + " Email:" + email
+    "Name: " + name + "\nIdentification: " + id + "\nEmail: " + email
   }
 }
