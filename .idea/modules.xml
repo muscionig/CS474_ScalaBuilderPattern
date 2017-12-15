@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/builder.iml" filepath="$PROJECT_DIR$/.idea/modules/builder.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/builder-build.iml" filepath="$PROJECT_DIR$/.idea/modules/builder-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cs474_scalabuilderpattern.iml" filepath="$PROJECT_DIR$/.idea/modules/cs474_scalabuilderpattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cs474_scalabuilderpattern-build.iml" filepath="$PROJECT_DIR$/.idea/modules/cs474_scalabuilderpattern-build.iml" />
     </modules>
   </component>
 </project>

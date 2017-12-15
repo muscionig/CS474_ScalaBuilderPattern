@@ -18,11 +18,11 @@ object Builder {
     println("\nBuilding me:  " + me)
 
     //Building a student
-    val meAsStudent = NormalPersonBuilder().withName("Guido").withId("652520943").withEmail("gmusci2@uic.edu").withStudent.withLevel("Master").withGPA("4").build
+    val meAsStudent = NormalPersonBuilder().withName("Guido").withId("652520943").withEmail("gmusci2@uic.edu").withStudent.withLevel("Master").withGPA("1000").build
     println("\nBuilding me:  " + meAsStudent)
 
     //Building a professor
-    val meAsProfessor = NormalPersonBuilder().withName("Guido").withId("652520943").withEmail("gmusci2@uic.edu").withProfessor.withDepartment("CS").withOffice("9999").build
+    val meAsProfessor = NormalPersonBuilder().withName("Guido").withId("652520943").withEmail("gmusci2@uic.edu").withProfessor.withDepartment("CS").build
     println("\nBuilding me:  " + meAsProfessor)
 
     println("\nEXECUTION END")
