@@ -1,0 +1,29 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging C:\Users\musci\Documents\Builder\target\scala-2.12\builder_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	utils\Value$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\musci\Documents\Builder\target\scala-2.12\classes\utils\Value$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\musci\Documents\Builder\target\scala-2.12\classes\Builder$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	utils\Value.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\musci\Documents\Builder\target\scala-2.12\classes\utils\Value.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	utils\Value$TRUE.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\musci\Documents\Builder\target\scala-2.12\classes\utils\Value$TRUE.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\musci\Documents\Builder\target\scala-2.12\classes\Builder$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	utils\Value$FALSE.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\musci\Documents\Builder\target\scala-2.12\classes\utils\Value$FALSE.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\musci\Documents\Builder\target\scala-2.12\classes\Builder$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Person.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\musci\Documents\Builder\target\scala-2.12\classes\Person.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\musci\Documents\Builder\target\scala-2.12\classes\Builder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NormalPersonBuilder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\musci\Documents\Builder\target\scala-2.12\classes\NormalPersonBuilder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StudentBuilder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\musci\Documents\Builder\target\scala-2.12\classes\StudentBuilder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	utils[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\musci\Documents\Builder\target\scala-2.12\classes\utils[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Student.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\musci\Documents\Builder\target\scala-2.12\classes\Student.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

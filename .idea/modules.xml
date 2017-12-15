@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BuilderPattern.iml" filepath="$PROJECT_DIR$/BuilderPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/builder.iml" filepath="$PROJECT_DIR$/.idea/modules/builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/builder-build.iml" filepath="$PROJECT_DIR$/.idea/modules/builder-build.iml" />
     </modules>
   </component>
 </project>

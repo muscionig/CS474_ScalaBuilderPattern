@@ -1,0 +1,6 @@
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\musci\Documents\Builder\src\main\scala\Student.scala:5:34: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following inputs: None, Some(_)[0m
+[0m[[0m[33mwarn[0m] [0m[0m  val this.gpa: Option[String] = gpa[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                 ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mthere were four feature warnings; re-run with -feature for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mtwo warnings found[0m
