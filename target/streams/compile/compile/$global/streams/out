@@ -1,9 +1,0 @@
-[0m[[0m[33mwarn[0m] [0m[0mC:\Users\musci\Documents\OptionalHW\CS474_ScalaBuilderPattern\src\main\scala\Professor.scala:14:37: match may not be exhaustive.[0m
-[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following inputs: None, Some(_)[0m
-[0m[[0m[33mwarn[0m] [0m[0m  val this.office: Option[String] = office[0m
-[0m[[0m[33mwarn[0m] [0m[0m                                    ^[0m
-[0m[[0m[33mwarn[0m] [0m[0mC:\Users\musci\Documents\OptionalHW\CS474_ScalaBuilderPattern\src\main\scala\Student.scala:14:34: match may not be exhaustive.[0m
-[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following inputs: None, Some(_)[0m
-[0m[[0m[33mwarn[0m] [0m[0m  val this.gpa: Option[String] = gpa[0m
-[0m[[0m[33mwarn[0m] [0m[0m                                 ^[0m
-[0m[[0m[33mwarn[0m] [0m[0mtwo warnings found[0m
